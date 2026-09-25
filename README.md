@@ -1,3 +1,2 @@
 # 0924_pythonu
-t = int(input('秒'))
-print(f"{t//3600}:{t%3600//60:02}:{t%60:02}")
+test
